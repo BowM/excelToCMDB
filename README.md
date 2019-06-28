@@ -11,9 +11,9 @@
 
 配置文件样例
 
-# properties
-filePath=D:/ApplicationSystem.xlsx //Excel文件路径
-type=Table_DB //cmdb属性名
-Excel中字段名=cmdb中字段名 //匹配字段名 
+>properties
+>filePath=D:/ApplicationSystem.xlsx //Excel文件路径
+>type=Table_DB //cmdb属性名
+>Excel中字段名=cmdb中字段名 //匹配字段名 
 
 调整完对用的字段名后，实现自动根据路径读取Excel中的数据，并根据CIID判断他是否存在，如存在则更新，不存在则添加。
