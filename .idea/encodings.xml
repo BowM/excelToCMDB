@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$/src/com/hp/schemas/Demo.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/hp/schemas/JDBCUtils_V3.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/hp/schemas/PorpertiesUtils.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/hp/schemas/UCMDBJdbc.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/hp/schemas/excelToUcmdbTest.java" charset="GBK" />
+  </component>
+</project>

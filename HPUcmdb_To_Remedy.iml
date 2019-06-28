@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="EclipseModuleManager">
+    <libelement value="jar://$MODULE_DIR$/lib/ucmdb-api.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/axis2lib2/axiom-api-1.2.21.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/axis2lib2/axiom-impl-1.2.21.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/axis2lib2/axis2-adb-1.7.9.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/axis2lib2/axis2-kernel-1.7.9.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/axis2lib2/axis2-transport-http-1.7.9.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/axis2lib2/axis2-transport-local-1.7.9.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/axis2lib2/commons-codec-1.2.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/axis2lib2/commons-httpclient-3.1.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/axis2lib2/commons-logging-1.1.1.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/axis2lib2/httpclient-4.5.3.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/axis2lib2/httpcore-4.4.6.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/axis2lib2/neethi-3.0.3.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/axis2lib2/woden-core-1.0M10.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/axis2lib2/wsdl4j-1.6.2.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/axis2lib2/xmlbeans-2.6.0.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/axis2lib2/xmlschema-core-2.2.1.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/UcmdbService-test-client.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/arapi81_build001.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/arapiext81_build001.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/log4j-1.2.14.jar!/" />
+    <src_description expected_position="0">
+      <src_folder value="file://$MODULE_DIR$/src" expected_position="0" />
+    </src_description>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/bin" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="jdk" jdkName="1.8" jdkType="JavaSDK" />
+    <orderEntry type="module-library" exported="">
+      <library name="ucmdb-api.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/ucmdb-api.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="axiom-api-1.2.21.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/axis2lib2/axiom-api-1.2.21.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="axiom-impl-1.2.21.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/axis2lib2/axiom-impl-1.2.21.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="axis2-adb-1.7.9.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/axis2lib2/axis2-adb-1.7.9.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="axis2-kernel-1.7.9.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/axis2lib2/axis2-kernel-1.7.9.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="axis2-transport-http-1.7.9.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/axis2lib2/axis2-transport-http-1.7.9.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="axis2-transport-local-1.7.9.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/axis2lib2/axis2-transport-local-1.7.9.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="commons-codec-1.2.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/axis2lib2/commons-codec-1.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="commons-httpclient-3.1.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/axis2lib2/commons-httpclient-3.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="commons-logging-1.1.1.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/axis2lib2/commons-logging-1.1.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="httpclient-4.5.3.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/axis2lib2/httpclient-4.5.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="httpcore-4.4.6.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/axis2lib2/httpcore-4.4.6.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="neethi-3.0.3.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/axis2lib2/neethi-3.0.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="woden-core-1.0M10.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/axis2lib2/woden-core-1.0M10.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="wsdl4j-1.6.2.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/axis2lib2/wsdl4j-1.6.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="xmlbeans-2.6.0.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/axis2lib2/xmlbeans-2.6.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="xmlschema-core-2.2.1.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/axis2lib2/xmlschema-core-2.2.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="UcmdbService-test-client.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/UcmdbService-test-client.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="arapi81_build001.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/arapi81_build001.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="arapiext81_build001.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/arapiext81_build001.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="log4j-1.2.14.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/log4j-1.2.14.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/dom4j-1.6.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/gumidpCilent.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/poi-3.9-20121203.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/poi-ooxml-3.9-20121203.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/poi-ooxml-schemas-3.9-20121203.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/commons-fileupload-1.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/commons-io-2.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/ojdbc14.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/servlet-api.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/xmlbeans-2.3.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/fastjson-1.2.47.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>

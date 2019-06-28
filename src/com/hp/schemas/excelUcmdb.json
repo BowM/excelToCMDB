@@ -1,0 +1,10 @@
+{
+  "CINDA_DB":{
+    "filePath":"D:/ApplicationSystem.xlsx",
+    "名称":"ds_Name",
+    "子类":"Type",
+    "数据库架构":"ds_DBRac",
+    "域名":"ds_Domain",
+    "入库时间":"ds_StorageTime"
+  }
+}
