@@ -11,6 +11,7 @@
 
 配置文件样例
 
+# properties
 filePath=D:/ApplicationSystem.xlsx //Excel文件路径
 type=Table_DB //cmdb属性名
 Excel中字段名=cmdb中字段名 //匹配字段名 
