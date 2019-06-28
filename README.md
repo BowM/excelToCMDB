@@ -8,3 +8,11 @@
 主要使用CMDB的Web Service API做具体操作
 ## 读取配置文件
 目前为读取属性文件，希望之后更改为读取的Json格式的配置信息
+
+配置文件样例
+
+filePath=D:/ApplicationSystem.xlsx //Excel文件路径
+type=Table_DB //cmdb属性名
+Excel中字段名=cmdb中字段名 //匹配字段名 
+
+调整完对用的字段名后，实现自动根据路径读取Excel中的数据，并根据CIID判断他是否存在，如存在则更新，不存在则添加。
